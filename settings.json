@@ -1,0 +1,38 @@
+{
+	"SettingsVersion": 1.2,
+	"SimMode": "Multirotor",
+
+	"Vehicles": {
+		"Drone1": {
+		  "VehicleType": "SimpleFlight",
+		  "X": 4, "Y": 0, "Z": -2
+		},
+		"Drone2": {
+		  "VehicleType": "SimpleFlight",
+		  "X": 54, "Y": 50, "Z": -2
+		},
+		"Drone3": {
+		  "VehicleType": "SimpleFlight",
+		  "X": 104, "Y": 100, "Z": -2
+		},
+		"Drone4": {
+		  "VehicleType": "SimpleFlight",
+		  "X": 154, "Y": 100, "Z": -2
+		}		
+	
+	},
+	
+	"Recording": {
+		"RecordOnMove": false,
+		"RecordInterval": 0.05,
+		"Folder": "",
+		"Enabled": false,
+		"Cameras": []
+	},
+	
+	"OriginGeopoint": {
+		"Latitude": 47.641468,
+		"Longitude": -122.140165,
+		"Altitude": 122
+	}
+}
